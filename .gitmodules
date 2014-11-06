@@ -1,0 +1,12 @@
+[submodule "cedet"]
+	path = cedet
+	url = http://git.randomsample.de/cedet.git
+[submodule "helm"]
+	path = helm
+	url = https://github.com/emacs-helm/helm.git
+[submodule "yasnippet"]
+	path = yasnippet
+	url = git@github.com:capitaomorte/yasnippet.git
+[submodule "emacs-async"]
+	path = emacs-async
+	url = git@github.com:jwiegley/emacs-async.git
