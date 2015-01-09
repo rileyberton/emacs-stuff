@@ -10,3 +10,6 @@
 [submodule "emacs-async"]
 	path = emacs-async
 	url = git@github.com:jwiegley/emacs-async.git
+[submodule "jinja2-mode"]
+	path = jinja2-mode
+	url = git@github.com:paradoxxxzero/jinja2-mode.git
